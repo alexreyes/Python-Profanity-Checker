@@ -1,2 +1,2 @@
 # Python-Profanity-Checker
-A simple python program to check for profanity in text files.
+A simple python program to check for profanity in a given text file.
